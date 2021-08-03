@@ -1,0 +1,35 @@
+#footer {
+  background-color: #42445A;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 50px;
+}
+
+#footer__link__header {
+  color: #9799B0;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+#footer__link {
+  color: white;
+  font-weight: 400;
+}
+
+#footer2 {
+  padding-left: 30px;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #292B3B;
+}
+
+#footer2 p {
+  color: grey;
+}
+
+
+#footer2 p span {
+  margin-left: 90px;
+  color: #BEC0D2;
+}
